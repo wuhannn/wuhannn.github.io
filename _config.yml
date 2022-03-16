@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "wuhannn's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号「后端技术学堂」分享、记录、成长"
+description: "个人Blog 分享、记录、成长"
 
 #
 # Flags below are optional
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2022 wuhannn
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
